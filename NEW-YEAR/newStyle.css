@@ -1,0 +1,22 @@
+body {
+	background-color: black;
+} 
+p {
+	text-align: center;
+	font-size: 4em;
+	font-family: 'long cang', cursive;
+	position: relative;
+    top: 100px;
+}
+
+
+.change {
+	width: 50%;
+	margin: 150px auto 0;
+	height: 300px;
+	background-color: #1b262c;
+	border-radius: 100px;
+}
+.hush {
+	color: blue;
+}
